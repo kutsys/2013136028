@@ -1,5 +1,5 @@
-#include <stdio.h>
+#include "test.h"
 
-void InBar() {
+void main() {
   printf("inbar\n");
 }
